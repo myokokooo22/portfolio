@@ -243,22 +243,28 @@ header{
 /* END ABOUT SECTION  */
 
 /* START CONTACT US SECTION  */
+
 .icons:nth-child(1){
-    background-color: darkblue;
+    background-color: yellowgreen;
     color: white;
 }
 
 .icons:nth-child(2){
-    background-color: red;
+    background-color: darkblue;
     color: white;
 }
 
 .icons:nth-child(3){
-    background-color: skyblue;
+    background-color: red;
     color: white;
 }
 
 .icons:nth-child(4){
+    background-color: skyblue;
+    color: white;
+}
+
+.icons:nth-child(5){
     background-color: #2071aa;
     color: white;
 }
